@@ -1,0 +1,22 @@
+{
+  "name": "token-based-mess-management-system",
+  "version": "1.0.0",
+  "description": "Token Based Mess Management System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lusar98/Token-based-mess-management-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lusar98/Token-based-mess-management-system/issues"
+  },
+  "homepage": "https://github.com/lusar98/Token-based-mess-management-system#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
